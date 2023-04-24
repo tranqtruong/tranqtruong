@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I've been learning to code for 5 years, i love backend development.
+I've been learning to code for 2 years, i love backend development.
 
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [trantruongac1@gmail.com](mailto:trantruongac1@gmail.com)
