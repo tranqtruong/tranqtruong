@@ -20,7 +20,7 @@ I've been learning to code for 2 years, i love backend development.
 
 
 ### Badges
-<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=tranqtruong&show_icons=true&theme=radical" />
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=tranqtruong&show_icons=true&theme=transparent" />
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranqtruong&layout=compact" />
 
 
