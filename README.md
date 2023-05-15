@@ -19,6 +19,10 @@ I've been learning to code for 2 years, i love backend development.
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4758888?v=4" width="36" height="36" alt="Spring" /></a>
 </p>
 
+### Socials
+
+<p align="left"> <a href="https://www.github.com/tranqtruong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/truong-tran-462857266" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 
 ### Badges
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=tranqtruong&show_icons=true&theme=transparent" />
