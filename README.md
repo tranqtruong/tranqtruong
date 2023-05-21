@@ -8,7 +8,7 @@ I've been learning to code for 2 years, i love backend development.
 
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [trantruongac1@gmail.com](mailto:trantruongac1@gmail.com)
-* 🧠  I'm learning Spring Framework 6
+* 🧠  I'm learning Spring Framework
 
 ### Skills
 <p align="left">
